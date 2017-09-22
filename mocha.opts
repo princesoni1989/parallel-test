@@ -1,0 +1,6 @@
+--compilers js:babel-register
+--require should
+--require ./setup
+--ui bdd
+--timeout 2000
+
