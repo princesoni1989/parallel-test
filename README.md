@@ -15,7 +15,7 @@ npm run test-parallel
  
 ![alt text](https://github.com/princesoni1989/parallel-test/blob/master/sequential.png)
  
-![alt text](https://github.com/princesoni1989/generator-react-beginner-kit/blob/master/parallel.png)
+![alt text](https://github.com/princesoni1989/parallel-test/blob/master/parallel.png)
 
 
 ## Complete guide
